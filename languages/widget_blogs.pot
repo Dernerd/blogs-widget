@@ -1,0 +1,134 @@
+# Copyright (C) 2013 Blogs Widget
+# This file is distributed under the same license as the Blogs Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blogs Widget 1.0.9.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/widget-blogs\n"
+"POT-Creation-Date: 2013-10-14 20:39:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: widget-blogs.php:67
+msgid "Display Blogs Pages"
+msgstr ""
+
+#: widget-blogs.php:69 widget-blogs.php:79 widget-blogs.php:154
+#: widget-blogs.php:173
+msgid "Blogs"
+msgstr ""
+
+#: widget-blogs.php:187
+msgid "Title"
+msgstr ""
+
+#: widget-blogs.php:191
+msgid "Display"
+msgstr ""
+
+#: widget-blogs.php:193
+msgid "Avatar + Blog Name"
+msgstr ""
+
+#: widget-blogs.php:194
+msgid "Avatar Only"
+msgstr ""
+
+#: widget-blogs.php:195
+msgid "Blog Name Only"
+msgstr ""
+
+#: widget-blogs.php:201
+msgid "Blog Name Characters"
+msgstr ""
+
+#: widget-blogs.php:216
+msgid "Public Only"
+msgstr ""
+
+#: widget-blogs.php:218 widget-blogs.php:225
+msgid "Yes"
+msgstr ""
+
+#: widget-blogs.php:219 widget-blogs.php:226
+msgid "No"
+msgstr ""
+
+#: widget-blogs.php:223
+msgid "Include Template Blogs"
+msgstr ""
+
+#: widget-blogs.php:230
+msgid "Order"
+msgstr ""
+
+#: widget-blogs.php:232
+msgid "Most Recent"
+msgstr ""
+
+#: widget-blogs.php:233
+msgid "Random"
+msgstr ""
+
+#: widget-blogs.php:236
+msgid "Number"
+msgstr ""
+
+#: widget-blogs.php:252
+msgid "Avatar Size"
+msgstr ""
+
+#: widget-blogs.php:254
+msgid "16px"
+msgstr ""
+
+#: widget-blogs.php:255
+msgid "32px"
+msgstr ""
+
+#: widget-blogs.php:256
+msgid "48px"
+msgstr ""
+
+#: widget-blogs.php:257
+msgid "96px"
+msgstr ""
+
+#: widget-blogs.php:258
+msgid "128px"
+msgstr ""
+
+#: widget-blogs.php:276
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of PSOURCE themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Blogs Widget"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://premium.wpmudev.org/project/blogs-widget"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Show recently updated blogs across your site, with avatars, through this "
+"handy widget"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "S H Mohanjith (PSOURCE), Andrew Billits (PSOURCE)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://premium.wpmudev.org"
+msgstr ""
